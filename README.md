@@ -48,3 +48,10 @@ usage: faster-whisper [-h] [-o OUTPUT] [--language LANGUAGE] [--task TASK]
                       [--num_workers NUM_WORKERS]
                       audio
 ```
+
+## Run
+
+```
+poetry install
+poetry run build
+```
